@@ -16,3 +16,9 @@ github_username:  723gt
 
 # Build settings
 markdown: kramdown
+
+#accsess
+analytics :
+  provider : google
+  google :
+      tracking_id : 'UA-82487146-1'
